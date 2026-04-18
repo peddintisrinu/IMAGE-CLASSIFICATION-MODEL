@@ -1,1 +1,15 @@
 # IMAGE-CLASSIFICATION-MODEL
+
+*COMPANY*: COOTECH IT SOLUTIONS 
+
+*NAME*:peddinti srinu 
+
+*INTERN ID*：CTIS8185 
+
+*DOMAIN*：Machine Learning 
+
+*DURATION*: 8 WEEEKS 
+
+*MENTOR*: Neela Santhosh Kumar 
+
+#DESCRIOTON

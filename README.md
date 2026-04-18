@@ -24,3 +24,8 @@ A CNN model typically consists of multiple layers. The convolutional layers appl
 
 #OUTPUT
 
+<img width="902" height="636" alt="Image" src="https://github.com/user-attachments/assets/9fc6c99f-d316-40d8-83c9-b78425d3ef0b" />
+<img width="857" height="785" alt="Image" src="https://github.com/user-attachments/assets/0dc10144-6a40-4668-9b1f-da123b6729ad" />
+<img width="1195" height="471" alt="Image" src="https://github.com/user-attachments/assets/7f96a237-4cf1-4fc2-bfe5-196519b6eb99" />
+<img width="835" height="590" alt="Image" src="https://github.com/user-attachments/assets/c41e27bd-e90d-4ade-a49f-d9cdd8cd2428" />
+<img width="555" height="531" alt="Image" src="https://github.com/user-attachments/assets/a3f14378-f076-4095-b634-fd551b671f8c" />
